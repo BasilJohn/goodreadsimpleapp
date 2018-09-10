@@ -1,0 +1,12 @@
+.App{
+
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+  }
+  .ItemHeader{
+      font-weight: bold;
+       padding: 10px
+  }

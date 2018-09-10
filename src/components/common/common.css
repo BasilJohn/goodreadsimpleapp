@@ -1,0 +1,6 @@
+.SearchBarInput{
+    border-radius: 5px;
+    height: 35px;
+    width: 50%;
+    border: 1px solid lightgray; 
+  }
